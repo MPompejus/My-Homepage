@@ -1,0 +1,4 @@
+Codecademy ist eine Seite, welche 
+uns beim lernen einer neuen 
+Programmiersprache unterstuetzt 
+mit Uebungen und informationenen.
