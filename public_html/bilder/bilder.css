@@ -1,0 +1,14 @@
+body {
+    background-image:url(hintergrundbilder-strand-3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+a:link {
+    color: black;
+}
+a:visited {
+    color: white;
+}
+a:hover {
+    color: yellow;
+}

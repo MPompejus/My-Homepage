@@ -1,7 +1,21 @@
+.links {
+    background-image:url(bilder/hintergrundbilder-strand-2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
 #links {
     border: 2px dashed black;
     background-color: green;
     border-radius: 4px;
+}
+a:link {
+    color: black;
+}
+a:visited {
+    color: white;
+}
+a:hover {
+    color: yellow;
 }
 #bilder {
     border: 2px solid blue;
